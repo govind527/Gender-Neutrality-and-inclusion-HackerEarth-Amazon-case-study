@@ -1,2 +1,2 @@
-# Gender-Neutrality-and-inclusion-HackerEarth-Amazon-case-study
-This Problem Comes under Hacker Earth Amazon Machine learning Challenges of Jun 2021
+# Gender-Neutrality-and-inclusion-HackerEarth
+This Problem Comes under HackerEarth Amazon Machine learning Challenges of Jun 2021
